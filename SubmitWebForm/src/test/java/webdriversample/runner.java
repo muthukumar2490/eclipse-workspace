@@ -1,5 +1,6 @@
 package webdriversample;
 
+import java.io.IOException;
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 
@@ -7,10 +8,12 @@ import org.openqa.selenium.WebDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import ObjectRepository.CompleteWebFormWithParserTest;
+
 public class runner {
 	static WebDriver driver;
 
-	public static void main(String[] args) throws InterruptedException {
+	public static void main(String[] args) throws InterruptedException, IOException {
 
 //		googlePageTest googlepagetest = new googlePageTest(driver);
 //		ButtonTest buttontest = new ButtonTest(driver);
@@ -26,7 +29,8 @@ public class runner {
 //		RadioButtonTest radioButtonTest  = new RadioButtonTest(driver);
 //		SwitchWindowTest switchWindowTest = new SwitchWindowTest(driver);
 		
-		completeWebFormTest completewebFormTest = new completeWebFormTest(driver);
+//		completeWebFormTest completewebFormTest = new completeWebFormTest(driver);
+		CompleteWebFormWithParserTest completeWebFormWithParserTest = new CompleteWebFormWithParserTest(driver);
 		
 	}
 

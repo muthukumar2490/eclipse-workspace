@@ -1,0 +1,8 @@
+fn = id:first-name
+ln = id:last-name
+JobTitle = id:job-title
+education = id:radio-button-1
+gender = id:checkbox-1
+exp = id:select-menu
+date = id:datepicker
+submitbtn = xpath://a[contains(text(),'Submit')]
