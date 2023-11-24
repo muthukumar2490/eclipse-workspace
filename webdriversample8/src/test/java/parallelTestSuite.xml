@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite"  parallel="tests"  thread-count="2">
+  <test name="Parallel Test1">
+    <classes>
+      <class name="ChromeTest"/>         
+    </classes>
+  </test>
+   <test name="Parallel Test2">
+    <classes>
+      <class name="ChromeTest"/>         
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-18T14:58:02 IST" name="Suite" finished-at="2023-10-18T14:58:08 IST" duration-ms="6130">
+    <groups>
+    </groups>
+    <test started-at="2023-10-18T14:58:02 IST" name="Test" finished-at="2023-10-18T14:58:08 IST" duration-ms="6130">
+      <class name="sameTestMultiTimes">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:sameTestMultiTimes@71def8f8]" started-at="2023-10-18T14:58:02 IST" name="beforeTest" finished-at="2023-10-18T14:58:04 IST" duration-ms="1923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:0, instance:sameTestMultiTimes@71def8f8]" started-at="2023-10-18T14:58:04 IST" name="f" finished-at="2023-10-18T14:58:07 IST" duration-ms="3404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f()[pri:0, instance:sameTestMultiTimes@71def8f8]" started-at="2023-10-18T14:58:04 IST" name="f" finished-at="2023-10-18T14:58:06 IST" duration-ms="1817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f()[pri:0, instance:sameTestMultiTimes@71def8f8]" started-at="2023-10-18T14:58:04 IST" name="f" finished-at="2023-10-18T14:58:07 IST" duration-ms="2862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f()[pri:0, instance:sameTestMultiTimes@71def8f8]" started-at="2023-10-18T14:58:04 IST" name="f" finished-at="2023-10-18T14:58:08 IST" duration-ms="3961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:sameTestMultiTimes@71def8f8]" started-at="2023-10-18T14:58:08 IST" name="afterTest" finished-at="2023-10-18T14:58:08 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- sameTestMultiTimes -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

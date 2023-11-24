@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM"https://testng.org/testng-1.0.dtd">
+
+<suite parallel="false"name="Suite">
+<test name="Test">
+<groups>
+
+<run><include name="feature2"></include><include name="feature3"></include>s</run>
+</groups><classes><class name="groupsTestNG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

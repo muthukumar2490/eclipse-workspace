@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite"  parallel="classes"  thread-count="2">
+  <test name="Parallel Test">
+    <classes>
+      <class name="ChromeTest"/>   
+      <class name="EdgeTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

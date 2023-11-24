@@ -1,0 +1,15 @@
+Sample text in Microsoft Word 
+To insert non-localized, pseudo-Latin sample text in Word, type =lorem() in the document where you want the text to appear, and then press ENTER.
+Some versions of Microsoft Word also generate the text using the =lorem() function.
+Lorem ipsum 
+Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.
+The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+Lorem ipsum has been the industry's standard dummy text ever since the 1500s.
+Sample text messages to customers 
+Welcome!
+Welcome to [business name] Alert Club!
+Hello there!
+Welcome to [business name]'s VIP Text Club
+Sample text for The curious incident of the dog in the night-time by Mark Haddon 
+My name is Christopher John Francis Boone
+I pulled the fork out of
