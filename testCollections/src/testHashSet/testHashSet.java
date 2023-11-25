@@ -36,6 +36,8 @@ public class testHashSet {
 		hs.remove("B");
 		System.out.println(hs);
 		
+		
+		
 		//5.iterate hashset using for each
 		
 		for(String s: hs) {
@@ -90,6 +92,8 @@ public class testHashSet {
 //		Set<Integer> diff1 = new HashSet<Integer>(set2);
 //		diff1.removeAll(set1);
 //		System.out.println(diff1);
+		
+		
 		
 		
 		
